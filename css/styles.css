@@ -1,0 +1,28 @@
+body {
+  background-color: tan;
+}
+
+.vue {
+  color: green;
+}
+
+.react {
+  color: teal;
+}
+
+.section {
+  background-color: white;
+  text-align: center;
+}
+
+.about-me {
+  float: left;
+  font-style: italic;
+  border: 1px black solid;
+  padding: 10px;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
